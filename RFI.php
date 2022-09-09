@@ -1,1 +1,1 @@
-<?php echo exec('ls');?>
+<?php echo exec("ls");?>

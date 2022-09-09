@@ -1,1 +1,1 @@
-<?php system('cat /etc/passwd');?>
+<?php echo exec('ls');?>

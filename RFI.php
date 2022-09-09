@@ -1,1 +1,1 @@
-<?php system(whoami);?>
+<?php echo exec("ver");?>

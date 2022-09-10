@@ -1,1 +1,1 @@
-<?php echo exec("ver");?>
+<?php echo exec("id");?>
